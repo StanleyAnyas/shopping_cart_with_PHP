@@ -1,0 +1,9 @@
+123;Reel;57
+234;Rod;5
+456;Hook;0.2;
+567;Line;8
+111;Spinning rod;15
+222;Tackle;2.1
+333;Net;23
+444;Gaff;21
+555;Gaff;24
