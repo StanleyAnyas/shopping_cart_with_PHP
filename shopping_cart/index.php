@@ -11,6 +11,7 @@ initialize_session();
 
     <body>
         <?php menu() ?>
+        <?php read_products('product.txt'); ?>
 
         <h1>Products</h1>
         <table border="1">

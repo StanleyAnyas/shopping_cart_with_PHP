@@ -20,6 +20,7 @@
             $price = (float) $line[2];
             // move the infomation to the produvt array
             $products[$id] = array(
+                'id' => $id,
                 'name' => $name,
                 'price' => $price
             );
